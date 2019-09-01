@@ -1,0 +1,16 @@
+//Enter the domain of your ftp Server
+yourdomain.com
+//Enter your username/email of your ftp Server
+your.email@domain.com
+//Enter your password of your ftp Server
+password
+//Enter the folder containing the files to be updated
+folder
+//Enter the path of the files to be updated on your system, followed by the explicit filename
+//Example:
+// /path/to/file/script.py
+// script.py
+// /path/to/secondfile/script2.py
+// script2.py
+
+

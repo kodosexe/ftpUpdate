@@ -1,4 +1,4 @@
-import os
+mport os
 from ftplib import FTP
 
 print("Reading config.txt")
@@ -29,7 +29,7 @@ ftp.cwd(folder)
 
 print("Directory found, updating files")
 
-for x in range(9, len(f1)-1, 2):
+for x in range(14, len(f1)-1, 2):
 	local_filename=f1[x]
 	local_filename=local_filename[:len(local_filename)-1]
 	
