@@ -33,7 +33,9 @@ Tell systemd to include the new service in its boot routine
 	sudo systemctl enable ftpUpdate.service
 
 Next time your Pi boots, the updater should run.
+
 Via dexterindustries.com
+
 (Tested on a Raspberry Pi Zero W)
 
 Usage
