@@ -18,7 +18,7 @@ There, enter the following lines
 	
 	[Service]
 	Type=idle
-	ExecStart=/use/bin/python /home/USERNAME/ftpUpdate/ftpUpdate.py
+	ExecStart=/use/bin/python3.5 /home/USERNAME/ftpUpdate/ftpUpdate.py
 	
 	[Install]
 	WantedBy=multi-user.target
